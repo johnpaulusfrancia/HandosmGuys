@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to Glitch
 =================
 
@@ -35,3 +36,6 @@ Made by [Glitch](https://glitch.com/)
 -------------------
 
 \ ゜o゜)ノ
+=======
+# HandosmGuys
+>>>>>>> e2cb448e18b7ef018896c0d16b441e7dabe669a3
